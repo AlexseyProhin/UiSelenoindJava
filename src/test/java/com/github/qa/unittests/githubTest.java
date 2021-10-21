@@ -32,7 +32,6 @@ public class githubTest {
         }
     }
 
-
     @Test
     public void simpleTest() {
         String xpath = "//input[@class='form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus']";
